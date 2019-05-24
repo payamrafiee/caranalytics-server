@@ -1,0 +1,6041 @@
+[
+  {
+    "make": "Acura",
+    "model": "ILX Sedan",
+    "year": 2019,
+    "price_start": 25900,
+    "price_end": 31550,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Acura",
+    "model": "MDX Hybrid",
+    "year": 2019,
+    "price_start": 52800,
+    "price_end": 59550,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Acura",
+    "model": "MDX SUV",
+    "year": 2019,
+    "price_start": 44300,
+    "price_end": 60050,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Acura",
+    "model": "NSX Coupe",
+    "year": 2019,
+    "price_start": 157500,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Acura",
+    "model": "RDX SUV",
+    "year": 2019,
+    "price_start": 37400,
+    "price_end": 47500,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Acura",
+    "model": "RLX Hybrid",
+    "year": 2019,
+    "price_start": 61900,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Acura",
+    "model": "RLX Sedan",
+    "year": 2019,
+    "price_start": 54900,
+    "price_end": 61900,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Acura",
+    "model": "TLX Sedan",
+    "year": 2019,
+    "price_start": 33000,
+    "price_end": 45950,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Alfa",
+    "model": "Romeo 4C Coupe",
+    "year": 2019,
+    "price_start": 66900,
+    "price_end": "",
+    "type": "coupe",
+    "country": "italy"
+  },
+  {
+    "make": "Alfa",
+    "model": "Romeo Giulia Quadrifoglio",
+    "year": 2019,
+    "price_start": 73995,
+    "price_end": "",
+    "type": "sedan",
+    "country": "italy"
+  },
+  {
+    "make": "Alfa",
+    "model": "Romeo Giulia Sedan",
+    "year": 2019,
+    "price_start": 38295,
+    "price_end": 73995,
+    "type": "sedan",
+    "country": "italy"
+  },
+  {
+    "make": "Alfa",
+    "model": "Romeo Stelvio Quadrifoglio",
+    "year": 2019,
+    "price_start": 79995,
+    "price_end": "",
+    "type": "suv",
+    "country": "italy"
+  },
+  {
+    "make": "Alfa",
+    "model": "Romeo Stelvio SUV",
+    "year": 2019,
+    "price_start": 40295,
+    "price_end": 79995,
+    "type": "suv",
+    "country": "italy"
+  },
+  {
+    "make": "Audi",
+    "model": "A3 Convertible",
+    "year": 2019,
+    "price_start": 38900,
+    "price_end": 49900,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A3 Sedan",
+    "year": 2019,
+    "price_start": 31950,
+    "price_end": 43700,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A3 Sportback e tron Hatchback",
+    "year": 2018,
+    "price_start": 39500,
+    "price_end": 48100,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A4 Sedan",
+    "year": 2019,
+    "price_start": 37400,
+    "price_end": 50800,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A4 allroad Wagon",
+    "year": 2019,
+    "price_start": 44500,
+    "price_end": 54300,
+    "type": "wagon",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A5 Convertible",
+    "year": 2019,
+    "price_start": 51200,
+    "price_end": 59300,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A5 Coupe",
+    "year": 2019,
+    "price_start": 44200,
+    "price_end": 52300,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A5 Hatchback",
+    "year": 2019,
+    "price_start": 44200,
+    "price_end": 52300,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A6 Sedan",
+    "year": 2019,
+    "price_start": 58900,
+    "price_end": 67100,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A7 Sedan",
+    "year": 2019,
+    "price_start": 68000,
+    "price_end": 76300,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "A8 Sedan",
+    "year": 2019,
+    "price_start": 83800,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "e tron SUV",
+    "year": 2019,
+    "price_start": 74800,
+    "price_end": 81800,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "e tron GT Sedan",
+    "year": 2021,
+    "price_start": "",
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3 SUV",
+    "year": 2018,
+    "price_start": 32900,
+    "price_end": 37900,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5 SUV",
+    "year": 2019,
+    "price_start": 42950,
+    "price_end": 53850,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7 SUV",
+    "year": 2019,
+    "price_start": 53550,
+    "price_end": 68700,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "Q8 SUV",
+    "year": 2019,
+    "price_start": 67400,
+    "price_end": 76550,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "R8 Convertible",
+    "year": 2018,
+    "price_start": 177100,
+    "price_end": 208100,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "R8 Coupe",
+    "year": 2018,
+    "price_start": 138700,
+    "price_end": 194400,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "RS 3 Sedan",
+    "year": 2018,
+    "price_start": 54900,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "RS 5 Coupe",
+    "year": 2019,
+    "price_start": 74200,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "RS 5 Hatchback",
+    "year": 2019,
+    "price_start": 74200,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "RS 7 Sedan",
+    "year": 2018,
+    "price_start": 113900,
+    "price_end": 130700,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S3 Sedan",
+    "year": 2019,
+    "price_start": 44500,
+    "price_end": 49800,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S4 Sedan",
+    "year": 2019,
+    "price_start": 50200,
+    "price_end": 57800,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S5 Convertible",
+    "year": 2019,
+    "price_start": 52400,
+    "price_end": 60500,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S5 Coupe",
+    "year": 2019,
+    "price_start": 65100,
+    "price_end": 68800,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S5 Hatchback",
+    "year": 2019,
+    "price_start": 52400,
+    "price_end": 60500,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S6 Sedan",
+    "year": 2018,
+    "price_start": 71900,
+    "price_end": 74400,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S7 Sedan",
+    "year": 2018,
+    "price_start": 81200,
+    "price_end": 83150,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "S8 Sedan",
+    "year": 2018,
+    "price_start": 115900,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "SQ5 SUV",
+    "year": 2019,
+    "price_start": 52400,
+    "price_end": 52100,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "TT Convertible",
+    "year": 2019,
+    "price_start": 43950,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "TT Coupe",
+    "year": 2019,
+    "price_start": 43950,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "TT RS Coupe",
+    "year": 2018,
+    "price_start": 64900,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Audi",
+    "model": "TTS Coupe",
+    "year": 2019,
+    "price_start": 52950,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Bentley",
+    "model": "Bentayga",
+    "year": 2019,
+    "price_start": 165000,
+    "price_end": 267700,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental",
+    "year": 2018,
+    "price_start": 236100,
+    "price_end": 322600,
+    "type": "convertible",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental GT Speed",
+    "year": 2018,
+    "price_start": 264300,
+    "price_end": "",
+    "type": "coupe",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental GT Supersports",
+    "year": 2018,
+    "price_start": 322600,
+    "price_end": "",
+    "type": "convertible",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Flying Spur",
+    "year": 2018,
+    "price_start": 189000,
+    "price_end": 244600,
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Flying Spur V8 S",
+    "year": 2018,
+    "price_start": 205000,
+    "price_end": "",
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Flying Spur W12 S",
+    "year": 2018,
+    "price_start": 244600,
+    "price_end": "",
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Mulsanne",
+    "year": 2018,
+    "price_start": 304670,
+    "price_end": 335600,
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Bentley",
+    "model": "Mulsanne Speed",
+    "year": 2018,
+    "price_start": 335600,
+    "price_end": "",
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "BMW",
+    "model": "2 Series Convertible",
+    "year": 2019,
+    "price_start": 41100,
+    "price_end": 52400,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "2 Series Coupe",
+    "year": 2019,
+    "price_start": 35300,
+    "price_end": 47800,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "2 Series M240i",
+    "year": 2019,
+    "price_start": 45840,
+    "price_end": 50400,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "2 Series M240i xDrive",
+    "year": 2019,
+    "price_start": 47800,
+    "price_end": 52400,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series Diesel",
+    "year": 2018,
+    "price_start": 41750,
+    "price_end": 46150,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series Hybrid",
+    "year": 2018,
+    "price_start": 45600,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series Sedan",
+    "year": 2019,
+    "price_start": 40250,
+    "price_end": 42250,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series Wagon",
+    "year": 2019,
+    "price_start": 45000,
+    "price_end": "",
+    "type": "wagon",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series Gran Turismo Hatchback",
+    "year": 2019,
+    "price_start": 45400,
+    "price_end": 51250,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "4 Series Convertible",
+    "year": 2019,
+    "price_start": 52950,
+    "price_end": 62000,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "4 Series Coupe",
+    "year": 2019,
+    "price_start": 44800,
+    "price_end": 53200,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "4 Series Gran Coupe Sedan",
+    "year": 2019,
+    "price_start": 44600,
+    "price_end": 53000,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "5 Series Diesel",
+    "year": 2018,
+    "price_start": 62000,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "5 Series Hybrid",
+    "year": 2019,
+    "price_start": 53400,
+    "price_end": 55700,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "5 Series M550i xDrive",
+    "year": 2019,
+    "price_start": 74450,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "5 Series Sedan",
+    "year": 2019,
+    "price_start": 53400,
+    "price_end": 74450,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "6 Series Convertible",
+    "year": 2018,
+    "price_start": 86700,
+    "price_end": 101300,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "6 Series Gran Coupe Sedan",
+    "year": 2019,
+    "price_start": 81500,
+    "price_end": 96100,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "6 Series Gran Turismo Hatchback",
+    "year": 2019,
+    "price_start": 70300,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series Hybrid",
+    "year": 2019,
+    "price_start": 91250,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series M760i xDrive",
+    "year": 2019,
+    "price_start": 156700,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series Sedan",
+    "year": 2019,
+    "price_start": 83650,
+    "price_end": 156700,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "8 Series Convertible",
+    "year": 2019,
+    "price_start": "",
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "8 Series Coupe",
+    "year": 2019,
+    "price_start": "",
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "8 Series Gran Coupe Sedan",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B6 Gran Coupe Sedan",
+    "year": 2019,
+    "price_start": 124400,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "ALPINA B7 Sedan",
+    "year": 2019,
+    "price_start": 139350,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Hatchback",
+    "year": 2019,
+    "price_start": 44450,
+    "price_end": 51500,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "i8 Convertible",
+    "year": 2019,
+    "price_start": 147500,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "i8 Coupe",
+    "year": 2019,
+    "price_start": 163300,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M2 Coupe",
+    "year": 2019,
+    "price_start": 58900,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M3 Sedan",
+    "year": 2018,
+    "price_start": 66500,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M3 CS Sedan",
+    "year": 2018,
+    "price_start": 98250,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M4 Convertible",
+    "year": 2019,
+    "price_start": 77650,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M4 Coupe",
+    "year": 2019,
+    "price_start": 69150,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M4 CS Coupe",
+    "year": 2019,
+    "price_start": 103100,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M5 Sedan",
+    "year": 2019,
+    "price_start": 102700,
+    "price_end": 110000,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M6 Convertible",
+    "year": 2018,
+    "price_start": 122300,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "M6 Gran Coupe Sedan",
+    "year": 2019,
+    "price_start": 119900,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X1 SUV",
+    "year": 2019,
+    "price_start": 34950,
+    "price_end": 36950,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X2 M35i",
+    "year": 2019,
+    "price_start": 46450,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X2 SUV",
+    "year": 2019,
+    "price_start": 36400,
+    "price_end": 46450,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X3 M40i",
+    "year": 2019,
+    "price_start": 54650,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X3 SUV",
+    "year": 2019,
+    "price_start": 41000,
+    "price_end": 54650,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X4 M40i",
+    "year": 2019,
+    "price_start": 60450,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X4 SUV",
+    "year": 2019,
+    "price_start": 50450,
+    "price_end": 60450,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X5 Diesel",
+    "year": 2018,
+    "price_start": 60700,
+    "price_end": 75750,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X5 Hybrid",
+    "year": 2018,
+    "price_start": 60700,
+    "price_end": 75750,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X5 SUV",
+    "year": 2019,
+    "price_start": 60700,
+    "price_end": 75750,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X5 M SUV",
+    "year": 2018,
+    "price_start": 101700,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X6 SUV",
+    "year": 2019,
+    "price_start": 63550,
+    "price_end": 78300,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X6 M SUV",
+    "year": 2019,
+    "price_start": 105700,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "X7 SUV",
+    "year": 2019,
+    "price_start": 73900,
+    "price_end": 92600,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "BMW",
+    "model": "Z4 Convertible",
+    "year": 2019,
+    "price_start": "",
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Buick",
+    "model": "Cascada Convertible",
+    "year": 2019,
+    "price_start": 33070,
+    "price_end": 37070,
+    "type": "convertible",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "Enclave SUV",
+    "year": 2019,
+    "price_start": 40000,
+    "price_end": 55800,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "Encore SUV",
+    "year": 2019,
+    "price_start": 23200,
+    "price_end": 30800,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "Envision SUV",
+    "year": 2019,
+    "price_start": 31995,
+    "price_end": 43600,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "LaCrosse Hybrid",
+    "year": 2019,
+    "price_start": 29570,
+    "price_end": 38670,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "LaCrosse Sedan",
+    "year": 2019,
+    "price_start": 29570,
+    "price_end": 47070,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "Regal Sportback GS",
+    "year": 2019,
+    "price_start": 39070,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "Regal Sportback Hatchback",
+    "year": 2019,
+    "price_start": 25070,
+    "price_end": 39070,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Buick",
+    "model": "Regal TourX Wagon",
+    "year": 2019,
+    "price_start": 29070,
+    "price_end": 35070,
+    "type": "wagon",
+    "country": "usa"
+  },
+  {
+    "make": "BYTON",
+    "model": "M Byte SUV",
+    "year": 2021,
+    "price_start": "",
+    "price_end": "",
+    "type": "suv",
+    "country": "china"
+  },
+  {
+    "make": "Cadillac",
+    "model": "ATS Sedan",
+    "year": 2018,
+    "price_start": 34895,
+    "price_end": 47295,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "ATS Coupe",
+    "year": 2019,
+    "price_start": 38995,
+    "price_end": 50895,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "ATS V Coupe",
+    "year": 2019,
+    "price_start": 67795,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "ATS V Sedan",
+    "year": 2018,
+    "price_start": 67795,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CT5 Sedan",
+    "year": 2020,
+    "price_start": 47000,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CT6 Hybrid",
+    "year": 2018,
+    "price_start": 50495,
+    "price_end": 95795,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CT6 Sedan",
+    "year": 2019,
+    "price_start": 50495,
+    "price_end": 95795,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CT6 V Sedan",
+    "year": 2019,
+    "price_start": 91795,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CTS Sedan",
+    "year": 2019,
+    "price_start": 46995,
+    "price_end": 71795,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CTS V Sport",
+    "year": 2019,
+    "price_start": 61695,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CTS V Sport Premium Luxury",
+    "year": 2019,
+    "price_start": 71795,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CTS V Sedan",
+    "year": 2019,
+    "price_start": 86995,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Escalade SUV",
+    "year": 2019,
+    "price_start": 75195,
+    "price_end": 97295,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Escalade ESV SUV",
+    "year": 2019,
+    "price_start": 78195,
+    "price_end": 100295,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "XT4 SUV",
+    "year": 2019,
+    "price_start": 34795,
+    "price_end": 41795,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "XT5 SUV",
+    "year": 2019,
+    "price_start": 41695,
+    "price_end": 65895,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "XT6 SUV",
+    "year": 2020,
+    "price_start": 52695,
+    "price_end": 57095,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Cadillac",
+    "model": "XTS Sedan",
+    "year": 2019,
+    "price_start": 46895,
+    "price_end": 72995,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Blazer SUV",
+    "year": 2019,
+    "price_start": 28800,
+    "price_end": 45600,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Bolt EV Hatchback",
+    "year": 2019,
+    "price_start": 36620,
+    "price_end": 41020,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro Convertible",
+    "year": 2019,
+    "price_start": 31500,
+    "price_end": 68000,
+    "type": "convertible",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro Coupe",
+    "year": 2019,
+    "price_start": 25000,
+    "price_end": 62000,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro ZL1",
+    "year": 2019,
+    "price_start": 62000,
+    "price_end": 68000,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "City Express Minivan",
+    "year": 2018,
+    "price_start": 22855,
+    "price_end": 23715,
+    "type": "minivan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Colorado Crew Cab",
+    "year": 2019,
+    "price_start": 26600,
+    "price_end": 42500,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Colorado Extended Cab",
+    "year": 2019,
+    "price_start": 20500,
+    "price_end": 40900,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette Convertible",
+    "year": 2019,
+    "price_start": 59495,
+    "price_end": 132900,
+    "type": "convertible",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette Coupe",
+    "year": 2019,
+    "price_start": 55495,
+    "price_end": 128900,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette Z06 w/1LZ",
+    "year": 2019,
+    "price_start": 79495,
+    "price_end": 83495,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette Z06 w/2LZ",
+    "year": 2019,
+    "price_start": 83060,
+    "price_end": 87060,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette Z06 w/3LZ",
+    "year": 2019,
+    "price_start": 88440,
+    "price_end": 92440,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette ZR1 w/1ZR",
+    "year": 2019,
+    "price_start": 118900,
+    "price_end": 122900,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette ZR1 w/3ZR",
+    "year": 2019,
+    "price_start": 128900,
+    "price_end": 132900,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cruze Diesel",
+    "year": 2019,
+    "price_start": 25620,
+    "price_end": 26120,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cruze Hatchback",
+    "year": 2019,
+    "price_start": 19620,
+    "price_end": 26120,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cruze Sedan",
+    "year": 2019,
+    "price_start": 17995,
+    "price_end": 25620,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox Diesel",
+    "year": 2019,
+    "price_start": 29500,
+    "price_end": 35000,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox SUV",
+    "year": 2019,
+    "price_start": 23800,
+    "price_end": 35600,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express Van",
+    "year": 2019,
+    "price_start": 34900,
+    "price_end": 39200,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express Cargo Van",
+    "year": 2019,
+    "price_start": 31900,
+    "price_end": 35800,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Impala Sedan",
+    "year": 2019,
+    "price_start": 28020,
+    "price_end": 36720,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu Hybrid",
+    "year": 2019,
+    "price_start": 28070,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu Sedan",
+    "year": 2019,
+    "price_start": 22090,
+    "price_end": 31670,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500 Crew Cab",
+    "year": 2019,
+    "price_start": 34600,
+    "price_end": 56600,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500 Double Cab",
+    "year": 2019,
+    "price_start": 32200,
+    "price_end": 46300,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500 Regular Cab",
+    "year": 2018,
+    "price_start": 28285,
+    "price_end": 40230,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500 LD Extended Cab",
+    "year": 2019,
+    "price_start": 34500,
+    "price_end": 44000,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 2500HD Crew Cab",
+    "year": 2019,
+    "price_start": 38400,
+    "price_end": 59000,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 2500HD Double Cab",
+    "year": 2019,
+    "price_start": 37600,
+    "price_end": 45900,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 2500HD Regular Cab",
+    "year": 2018,
+    "price_start": 33960,
+    "price_end": 41450,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 3500HD Crew Cab",
+    "year": 2019,
+    "price_start": 40300,
+    "price_end": 60100,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 3500HD Double Cab",
+    "year": 2018,
+    "price_start": 38585,
+    "price_end": 51030,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 3500HD Regular Cab",
+    "year": 2018,
+    "price_start": 35260,
+    "price_end": 43355,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Sonic Hatchback",
+    "year": 2019,
+    "price_start": 17195,
+    "price_end": 21520,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Sonic Sedan",
+    "year": 2019,
+    "price_start": 15420,
+    "price_end": 20720,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Spark Hatchback",
+    "year": 2019,
+    "price_start": 13220,
+    "price_end": 17720,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban SUV",
+    "year": 2019,
+    "price_start": 49190,
+    "price_end": 67830,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe SUV",
+    "year": 2019,
+    "price_start": 46700,
+    "price_end": 65600,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Traverse SUV",
+    "year": 2019,
+    "price_start": 29930,
+    "price_end": 53000,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Trax SUV",
+    "year": 2019,
+    "price_start": 21200,
+    "price_end": 29000,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Volt Hatchback",
+    "year": 2019,
+    "price_start": 33520,
+    "price_end": 38120,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Chrysler",
+    "model": "300 Sedan",
+    "year": 2019,
+    "price_start": 29220,
+    "price_end": 41695,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Pacifica Minivan",
+    "year": 2019,
+    "price_start": 26985,
+    "price_end": 44445,
+    "type": "minivan",
+    "country": "usa"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Pacifica Hybrid Minivan",
+    "year": 2019,
+    "price_start": 39995,
+    "price_end": 45545,
+    "type": "minivan",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger 392 Hemi Scat Pack Shaker",
+    "year": 2018,
+    "price_start": 41795,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger Coupe",
+    "year": 2019,
+    "price_start": 27845,
+    "price_end": 69995,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger R/T Scat Pack",
+    "year": 2019,
+    "price_start": 38995,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger SRT 392",
+    "year": 2018,
+    "price_start": 49495,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger SRT Demon",
+    "year": 2018,
+    "price_start": 83295,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger SRT Hellcat",
+    "year": 2019,
+    "price_start": 58995,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger SRT Hellcat Redeye",
+    "year": 2019,
+    "price_start": 69995,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger SRT Hellcat Widebody",
+    "year": 2018,
+    "price_start": 70295,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger T/A 392",
+    "year": 2018,
+    "price_start": 43995,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Charger SRT 392",
+    "year": 2018,
+    "price_start": 28995,
+    "price_end": 66295,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Charger SRT Hellcat",
+    "year": 2019,
+    "price_start": 65545,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Charger Sedan",
+    "year": 2019,
+    "price_start": 29220,
+    "price_end": 65545,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Durango SRT",
+    "year": 2019,
+    "price_start": 62995,
+    "price_end": "",
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Durango SUV",
+    "year": 2019,
+    "price_start": 30195,
+    "price_end": 62995,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Grand Caravan Minivan",
+    "year": 2019,
+    "price_start": 26790,
+    "price_end": 34495,
+    "type": "minivan",
+    "country": "usa"
+  },
+  {
+    "make": "Dodge",
+    "model": "Journey SUV",
+    "year": 2019,
+    "price_start": 22995,
+    "price_end": 35295,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Ferrari",
+    "model": "Portofino Convertible",
+    "year": 2018,
+    "price_start": 210783,
+    "price_end": "",
+    "type": "convertible",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "124 Spider Abarth",
+    "year": 2019,
+    "price_start": 29290,
+    "price_end": "",
+    "type": "convertible",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "124 Spider Convertible",
+    "year": 2019,
+    "price_start": 25190,
+    "price_end": 29290,
+    "type": "convertible",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "500 Abarth",
+    "year": 2019,
+    "price_start": 20495,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "500 C Abarth",
+    "year": 2019,
+    "price_start": 21990,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "500 Convertible",
+    "year": 2019,
+    "price_start": 17740,
+    "price_end": 21990,
+    "type": "convertible",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "500 Hatchback",
+    "year": 2019,
+    "price_start": 16245,
+    "price_end": 20495,
+    "type": "hatchback",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "500e Hatchback",
+    "year": 2019,
+    "price_start": 33210,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "500L Wagon",
+    "year": 2019,
+    "price_start": 21910,
+    "price_end": 24320,
+    "type": "wagon",
+    "country": "italy"
+  },
+  {
+    "make": "FIAT",
+    "model": "500X SUV",
+    "year": 2019,
+    "price_start": 24490,
+    "price_end": 29195,
+    "type": "suv",
+    "country": "italy"
+  },
+  {
+    "make": "Ford",
+    "model": "C Max Hybrid Wagon",
+    "year": 2018,
+    "price_start": 24120,
+    "price_end": 27175,
+    "type": "wagon",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "EcoSport SUV",
+    "year": 2019,
+    "price_start": 19995,
+    "price_end": 27610,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Edge SUV",
+    "year": 2019,
+    "price_start": 29995,
+    "price_end": 42355,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Escape SUV",
+    "year": 2019,
+    "price_start": 24105,
+    "price_end": 34120,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition SUV",
+    "year": 2019,
+    "price_start": 48530,
+    "price_end": 79200,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer Hybrid",
+    "year": 2020,
+    "price_start": 52280,
+    "price_end": 54475,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer SUV",
+    "year": 2020,
+    "price_start": 32765,
+    "price_end": 58250,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 150 Regular Cab",
+    "year": 2019,
+    "price_start": 28155,
+    "price_end": 37885,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 150 SuperCab",
+    "year": 2019,
+    "price_start": 32240,
+    "price_end": 52855,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 150 SuperCrew",
+    "year": 2019,
+    "price_start": 34695,
+    "price_end": 70560,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 250 Super Duty Crew Cab",
+    "year": 2019,
+    "price_start": 36745,
+    "price_end": 80440,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 250 Super Duty Diesel",
+    "year": 2019,
+    "price_start": 80240,
+    "price_end": 80440,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 250 Super Duty Regular Cab",
+    "year": 2019,
+    "price_start": 33150,
+    "price_end": 40165,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 250 Super Duty SuperCab",
+    "year": 2019,
+    "price_start": 35485,
+    "price_end": 49530,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 350 Super Duty Crew Cab",
+    "year": 2019,
+    "price_start": 37920,
+    "price_end": 83090,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 350 Super Duty Diesel",
+    "year": 2019,
+    "price_start": 81415,
+    "price_end": 83090,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 350 Super Duty Regular Cab",
+    "year": 2019,
+    "price_start": 34320,
+    "price_end": 42620,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 350 Super Duty SuperCab",
+    "year": 2019,
+    "price_start": 36660,
+    "price_end": 52185,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 450 Super Duty Crew Cab",
+    "year": 2019,
+    "price_start": 51795,
+    "price_end": 86505,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "F 450 Super Duty Regular Cab",
+    "year": 2019,
+    "price_start": 47375,
+    "price_end": 55570,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Fiesta Hatchback",
+    "year": 2019,
+    "price_start": 14560,
+    "price_end": 21340,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Fiesta ST",
+    "year": 2019,
+    "price_start": 21340,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Fiesta Sedan",
+    "year": 2019,
+    "price_start": 14260,
+    "price_end": 15490,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Flex Wagon",
+    "year": 2019,
+    "price_start": 30575,
+    "price_end": 43590,
+    "type": "wagon",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus Electric",
+    "year": 2018,
+    "price_start": 29120,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus Hatchback",
+    "year": 2018,
+    "price_start": 20540,
+    "price_end": 29120,
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus Sedan",
+    "year": 2018,
+    "price_start": 17950,
+    "price_end": 24270,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus RS Hatchback",
+    "year": 2018,
+    "price_start": 41120,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus ST Hatchback",
+    "year": 2018,
+    "price_start": 25170,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Fusion Sedan",
+    "year": 2019,
+    "price_start": 22840,
+    "price_end": 40015,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Fusion Energi Sedan",
+    "year": 2019,
+    "price_start": 36595,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Fusion Hybrid Sedan",
+    "year": 2019,
+    "price_start": 27555,
+    "price_end": 34485,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "GT Coupe",
+    "year": 2017,
+    "price_start": "",
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang BULLITT",
+    "year": 2019,
+    "price_start": 46595,
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang Convertible",
+    "year": 2019,
+    "price_start": 31895,
+    "price_end": 44855,
+    "type": "convertible",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang Coupe",
+    "year": 2019,
+    "price_start": 26395,
+    "price_end": 46595,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger Crew Cab",
+    "year": 2019,
+    "price_start": "_____",
+    "price_end": 38385,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger SuperCab",
+    "year": 2019,
+    "price_start": 24300,
+    "price_end": 36210,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Shelby GT350 Coupe",
+    "year": 2019,
+    "price_start": 55940,
+    "price_end": 63440,
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Shelby GT500 Coupe",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "coupe",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Taurus SHO",
+    "year": 2019,
+    "price_start": 42975,
+    "price_end": "",
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Taurus Sedan",
+    "year": 2019,
+    "price_start": 27800,
+    "price_end": 42975,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Transit Connect Diesel",
+    "year": 2020,
+    "price_start": 27100,
+    "price_end": 30215,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Transit Connect Minivan",
+    "year": 2020,
+    "price_start": 24100,
+    "price_end": 31595,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Transit Passenger Van",
+    "year": 2019,
+    "price_start": 35840,
+    "price_end": 45065,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Transit Van",
+    "year": 2019,
+    "price_start": 33135,
+    "price_end": 42205,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Ford",
+    "model": "Transit Wagon Van",
+    "year": 2018,
+    "price_start": 35100,
+    "price_end": 44245,
+    "type": "wagon",
+    "country": "usa"
+  },
+  {
+    "make": "Genesis",
+    "model": "G70 Sedan",
+    "year": 2019,
+    "price_start": 34900,
+    "price_end": 52250,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Genesis",
+    "model": "G80 Sedan",
+    "year": 2019,
+    "price_start": 42050,
+    "price_end": 59500,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Genesis",
+    "model": "G90 Sedan",
+    "year": 2019,
+    "price_start": 69350,
+    "price_end": 76350,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "GMC",
+    "model": "Acadia SUV",
+    "year": 2019,
+    "price_start": 29000,
+    "price_end": 47500,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Canyon Crew Cab",
+    "year": 2019,
+    "price_start": 27500,
+    "price_end": 44100,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Canyon Extended Cab",
+    "year": 2019,
+    "price_start": 21400,
+    "price_end": 37800,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana Van",
+    "year": 2019,
+    "price_start": 34900,
+    "price_end": 39200,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana Cargo Van",
+    "year": 2019,
+    "price_start": 31900,
+    "price_end": 35800,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500 Crew Cab",
+    "year": 2019,
+    "price_start": 35900,
+    "price_end": 58300,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500 Double Cab",
+    "year": 2019,
+    "price_start": 33500,
+    "price_end": 50800,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500 Regular Cab",
+    "year": 2018,
+    "price_start": 28705,
+    "price_end": 39610,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500 Limited Extended Cab",
+    "year": 2019,
+    "price_start": 35100,
+    "price_end": 43700,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 2500HD Crew Cab",
+    "year": 2019,
+    "price_start": 39000,
+    "price_end": 59800,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 2500HD Double Cab",
+    "year": 2019,
+    "price_start": 38200,
+    "price_end": 46900,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 2500HD Regular Cab",
+    "year": 2018,
+    "price_start": 34740,
+    "price_end": 43270,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 3500HD Crew Cab",
+    "year": 2019,
+    "price_start": 40800,
+    "price_end": 60100,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 3500HD Double Cab",
+    "year": 2018,
+    "price_start": 39200,
+    "price_end": 52300,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 3500HD Regular Cab",
+    "year": 2018,
+    "price_start": 35900,
+    "price_end": 44500,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Terrain Diesel",
+    "year": 2019,
+    "price_start": 31800,
+    "price_end": 35500,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Terrain SUV",
+    "year": 2019,
+    "price_start": 25000,
+    "price_end": 39500,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon SUV",
+    "year": 2019,
+    "price_start": 49500,
+    "price_end": 69600,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL SUV",
+    "year": 2019,
+    "price_start": 52200,
+    "price_end": 72300,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord Sedan",
+    "year": 2019,
+    "price_start": 23720,
+    "price_end": 35950,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord Hybrid Sedan",
+    "year": 2019,
+    "price_start": 25320,
+    "price_end": 34990,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Coupe",
+    "year": 2019,
+    "price_start": 20650,
+    "price_end": 26850,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Hatchback",
+    "year": 2019,
+    "price_start": 21450,
+    "price_end": 35700,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Sedan",
+    "year": 2019,
+    "price_start": 19450,
+    "price_end": 27300,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Si",
+    "year": 2019,
+    "price_start": 24300,
+    "price_end": "",
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Si w/Summer Tires",
+    "year": 2018,
+    "price_start": 24300,
+    "price_end": "",
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Type R",
+    "year": 2019,
+    "price_start": 35700,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Type R Touring",
+    "year": 2018,
+    "price_start": 34700,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Clarity Electric",
+    "year": 2019,
+    "price_start": 36620,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Clarity Hybrid",
+    "year": 2019,
+    "price_start": 33400,
+    "price_end": 36600,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Clarity Sedan",
+    "year": 2019,
+    "price_start": 33400,
+    "price_end": 36620,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "CR V SUV",
+    "year": 2019,
+    "price_start": 24350,
+    "price_end": 34150,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Fit Hatchback",
+    "year": 2019,
+    "price_start": 16190,
+    "price_end": 21520,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "HR V SUV",
+    "year": 2019,
+    "price_start": 20520,
+    "price_end": 28540,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Insight Sedan",
+    "year": 2019,
+    "price_start": 22930,
+    "price_end": 28190,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Odyssey Minivan",
+    "year": 2019,
+    "price_start": 30190,
+    "price_end": 47070,
+    "type": "minivan",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Passport SUV",
+    "year": 2019,
+    "price_start": 31990,
+    "price_end": 43680,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot SUV",
+    "year": 2019,
+    "price_start": 31450,
+    "price_end": 48020,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Honda",
+    "model": "Ridgeline Crew Cab",
+    "year": 2019,
+    "price_start": 29990,
+    "price_end": 43420,
+    "type": "truck",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent Sedan",
+    "year": 2019,
+    "price_start": 14995,
+    "price_end": 19080,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Azera Sedan",
+    "year": 2017,
+    "price_start": 25988,
+    "price_end": "",
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra Sedan",
+    "year": 2019,
+    "price_start": 17200,
+    "price_end": 23700,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra GT Hatchback",
+    "year": 2019,
+    "price_start": 20450,
+    "price_end": 24400,
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq Electric Hatchback",
+    "year": 2019,
+    "price_start": 30315,
+    "price_end": 36815,
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq Hybrid Hatchback",
+    "year": 2019,
+    "price_start": 22400,
+    "price_end": 28550,
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq Plug In Hybrid Hatchback",
+    "year": 2019,
+    "price_start": 25350,
+    "price_end": 29350,
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Kona SUV",
+    "year": 2019,
+    "price_start": 19990,
+    "price_end": 31950,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Kona Electric SUV",
+    "year": 2019,
+    "price_start": 36950,
+    "price_end": 44900,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "NEXO SUV",
+    "year": 2019,
+    "price_start": 58300,
+    "price_end": 61800,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Palisade SUV",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe SUV",
+    "year": 2019,
+    "price_start": 25750,
+    "price_end": 38800,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe Sport SUV",
+    "year": 2018,
+    "price_start": 24950,
+    "price_end": 37200,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe XL SUV",
+    "year": 2019,
+    "price_start": 30950,
+    "price_end": 41400,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata Sedan",
+    "year": 2019,
+    "price_start": 22500,
+    "price_end": 32100,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata Hybrid Sedan",
+    "year": 2019,
+    "price_start": 25750,
+    "price_end": 31300,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata Plug in Hybrid Sedan",
+    "year": 2019,
+    "price_start": 33400,
+    "price_end": 39000,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson SUV",
+    "year": 2019,
+    "price_start": 23200,
+    "price_end": 32950,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster Hatchback",
+    "year": 2019,
+    "price_start": 18500,
+    "price_end": 28150,
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster N",
+    "year": 2019,
+    "price_start": 18500,
+    "price_end": 28150,
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q50 Hybrid",
+    "year": 2018,
+    "price_start": 50600,
+    "price_end": 52600,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q50 RED SPORT 400",
+    "year": 2019,
+    "price_start": 51250,
+    "price_end": 53250,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q50 Sedan",
+    "year": 2019,
+    "price_start": 35550,
+    "price_end": 53250,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q60 Coupe",
+    "year": 2019,
+    "price_start": 40750,
+    "price_end": 56900,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q60 RED SPORT 400",
+    "year": 2019,
+    "price_start": 54900,
+    "price_end": 56900,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q70 Hybrid",
+    "year": 2018,
+    "price_start": 50300,
+    "price_end": 67600,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "Q70 Sedan",
+    "year": 2019,
+    "price_start": 50300,
+    "price_end": 67600,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX30 SUV",
+    "year": 2019,
+    "price_start": 30150,
+    "price_end": 41400,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX50 SUV",
+    "year": 2019,
+    "price_start": 36550,
+    "price_end": 45150,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX60 SUV",
+    "year": 2019,
+    "price_start": 44000,
+    "price_end": 47850,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "INFINITI",
+    "model": "QX80 SUV",
+    "year": 2019,
+    "price_start": 65400,
+    "price_end": 90100,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Jaguar",
+    "model": "E PACE SUV",
+    "year": 2019,
+    "price_start": 38600,
+    "price_end": 52850,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F PACE Diesel",
+    "year": 2019,
+    "price_start": 48500,
+    "price_end": 57400,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F PACE SUV",
+    "year": 2019,
+    "price_start": 44600,
+    "price_end": 79990,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F PACE SVR",
+    "year": 2019,
+    "price_start": 79990,
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F TYPE Convertible",
+    "year": 2019,
+    "price_start": 63850,
+    "price_end": 125850,
+    "type": "convertible",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F TYPE Coupe",
+    "year": 2019,
+    "price_start": 60750,
+    "price_end": 122750,
+    "type": "coupe",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F TYPE R",
+    "year": 2019,
+    "price_start": 100750,
+    "price_end": 103850,
+    "type": "coupe",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F TYPE SVR",
+    "year": 2019,
+    "price_start": 122750,
+    "price_end": 125850,
+    "type": "coupe",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "I PACE Hatchback",
+    "year": 2019,
+    "price_start": 69500,
+    "price_end": 85900,
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE Diesel",
+    "year": 2019,
+    "price_start": 38515,
+    "price_end": 52990,
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE SV Project 8",
+    "year": 2019,
+    "price_start": 187500,
+    "price_end": "",
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE Sedan",
+    "year": 2019,
+    "price_start": 36995,
+    "price_end": 187500,
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF Diesel",
+    "year": 2019,
+    "price_start": 51465,
+    "price_end": 59485,
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF Sedan",
+    "year": 2019,
+    "price_start": 49965,
+    "price_end": 70565,
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF Wagon",
+    "year": 2019,
+    "price_start": 64575,
+    "price_end": 71215,
+    "type": "wagon",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ Sedan",
+    "year": 2019,
+    "price_start": 75400,
+    "price_end": 122400,
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ XJR575",
+    "year": 2019,
+    "price_start": 122400,
+    "price_end": "",
+    "type": "sedan",
+    "country": "britannia"
+  },
+  {
+    "make": "Jeep",
+    "model": "Cherokee SUV",
+    "year": 2019,
+    "price_start": 24795,
+    "price_end": 38245,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass SUV",
+    "year": 2019,
+    "price_start": 21845,
+    "price_end": 31690,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Gladiator Crew Cab",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee SRT",
+    "year": 2019,
+    "price_start": 68395,
+    "price_end": "",
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee SUV",
+    "year": 2019,
+    "price_start": 31945,
+    "price_end": 86900,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee Trackhawk",
+    "year": 2019,
+    "price_start": 86900,
+    "price_end": "",
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Renegade SUV",
+    "year": 2019,
+    "price_start": 22025,
+    "price_end": 29890,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler SUV",
+    "year": 2019,
+    "price_start": 28045,
+    "price_end": 51300,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler JK SUV",
+    "year": 2018,
+    "price_start": 23995,
+    "price_end": 42945,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Kia",
+    "model": "Cadenza Sedan",
+    "year": 2019,
+    "price_start": 33100,
+    "price_end": 44100,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Forte Hatchback",
+    "year": 2018,
+    "price_start": 17790,
+    "price_end": 21990,
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Forte Sedan",
+    "year": 2019,
+    "price_start": 17790,
+    "price_end": 21990,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "K900 Sedan",
+    "year": 2019,
+    "price_start": 50900,
+    "price_end": 61900,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Niro SUV",
+    "year": 2019,
+    "price_start": 23490,
+    "price_end": 32250,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Niro EV SUV",
+    "year": 2019,
+    "price_start": "",
+    "price_end": "",
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Niro Plug In Hybrid SUV",
+    "year": 2019,
+    "price_start": 28500,
+    "price_end": 35200,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Optima Sedan",
+    "year": 2019,
+    "price_start": 22990,
+    "price_end": 31990,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Optima Hybrid Sedan",
+    "year": 2019,
+    "price_start": 28090,
+    "price_end": "",
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Optima Plug In Hybrid Sedan",
+    "year": 2019,
+    "price_start": 35390,
+    "price_end": "",
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Rio Hatchback",
+    "year": 2019,
+    "price_start": 16490,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Rio Sedan",
+    "year": 2019,
+    "price_start": 15390,
+    "price_end": 16190,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Sedona Minivan",
+    "year": 2019,
+    "price_start": 27200,
+    "price_end": 41100,
+    "type": "minivan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Sorento SUV",
+    "year": 2019,
+    "price_start": 26290,
+    "price_end": 46490,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Soul Wagon",
+    "year": 2020,
+    "price_start": 17490,
+    "price_end": 27490,
+    "type": "wagon",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Soul EV Wagon",
+    "year": 2019,
+    "price_start": 33950,
+    "price_end": 35950,
+    "type": "wagon",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage SUV",
+    "year": 2019,
+    "price_start": 23750,
+    "price_end": 34600,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Stinger Sedan",
+    "year": 2019,
+    "price_start": 32990,
+    "price_end": 52400,
+    "type": "sedan",
+    "country": "southkorea"
+  },
+  {
+    "make": "Kia",
+    "model": "Telluride SUV",
+    "year": 2020,
+    "price_start": 31690,
+    "price_end": 43490,
+    "type": "suv",
+    "country": "southkorea"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Huracan Convertible",
+    "year": 2019,
+    "price_start": 223654,
+    "price_end": 308859,
+    "type": "convertible",
+    "country": "italy"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Huracan Coupe",
+    "year": 2019,
+    "price_start": 203674,
+    "price_end": 281048,
+    "type": "coupe",
+    "country": "italy"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Urus SUV",
+    "year": 2019,
+    "price_start": 200000,
+    "price_end": "",
+    "type": "suv",
+    "country": "italy"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Defender SUV",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Discovery Diesel",
+    "year": 2019,
+    "price_start": 54300,
+    "price_end": 68500,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Discovery SUV",
+    "year": 2019,
+    "price_start": 52300,
+    "price_end": 68500,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Discovery Sport SUV",
+    "year": 2019,
+    "price_start": 37795,
+    "price_end": 52895,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Diesel",
+    "year": 2019,
+    "price_start": 91160,
+    "price_end": 96350,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Hybrid",
+    "year": 2019,
+    "price_start": 95450,
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover SUV",
+    "year": 2019,
+    "price_start": 89160,
+    "price_end": 208200,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover SV Autobiography Dynamic",
+    "year": 2019,
+    "price_start": 177500,
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover SV Autobiography LWB",
+    "year": 2019,
+    "price_start": 208200,
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Evoque Convertible",
+    "year": 2019,
+    "price_start": 52100,
+    "price_end": 57800,
+    "type": "convertible",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Evoque SUV",
+    "year": 2019,
+    "price_start": 41800,
+    "price_end": 65600,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Sport Diesel",
+    "year": 2019,
+    "price_start": 69050,
+    "price_end": 74650,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Sport Hybrid",
+    "year": 2019,
+    "price_start": 78600,
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Sport SUV",
+    "year": 2019,
+    "price_start": 67050,
+    "price_end": 113900,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Sport SVR",
+    "year": 2019,
+    "price_start": 113900,
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Velar Diesel",
+    "year": 2019,
+    "price_start": 55900,
+    "price_end": "",
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Land",
+    "model": "Rover Range Rover Velar SUV",
+    "year": 2019,
+    "price_start": 49600,
+    "price_end": 74000,
+    "type": "suv",
+    "country": "britannia"
+  },
+  {
+    "make": "Lexus",
+    "model": "ES 300h Sedan",
+    "year": 2019,
+    "price_start": 41310,
+    "price_end": 44960,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "ES 350 Sedan",
+    "year": 2019,
+    "price_start": 39500,
+    "price_end": 44035,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "GS 300 Sedan",
+    "year": 2019,
+    "price_start": 46710,
+    "price_end": 51300,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "GS 350 Sedan",
+    "year": 2019,
+    "price_start": 50765,
+    "price_end": 54205,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "GS 450h Sedan",
+    "year": 2018,
+    "price_start": 63635,
+    "price_end": 68680,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "GS F Sedan",
+    "year": 2019,
+    "price_start": 84450,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "GX 460 SUV",
+    "year": 2019,
+    "price_start": 52335,
+    "price_end": 63755,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "IS 300 Sedan",
+    "year": 2019,
+    "price_start": 38410,
+    "price_end": 43655,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "IS 350 Sedan",
+    "year": 2019,
+    "price_start": 42030,
+    "price_end": 46560,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "LC 500 Coupe",
+    "year": 2019,
+    "price_start": 92300,
+    "price_end": "",
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "LC 500h Coupe",
+    "year": 2019,
+    "price_start": 96810,
+    "price_end": "",
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "LS 500 Sedan",
+    "year": 2019,
+    "price_start": 75300,
+    "price_end": 84520,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "LS 500h Sedan",
+    "year": 2019,
+    "price_start": 79810,
+    "price_end": 83030,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "LX 570 SUV",
+    "year": 2019,
+    "price_start": 86080,
+    "price_end": 91080,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "NX 300 SUV",
+    "year": 2019,
+    "price_start": 36485,
+    "price_end": 40125,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "NX 300h SUV",
+    "year": 2019,
+    "price_start": 38835,
+    "price_end": "",
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "RC 300 Coupe",
+    "year": 2019,
+    "price_start": 41145,
+    "price_end": 50035,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "RC 350 Coupe",
+    "year": 2019,
+    "price_start": 44075,
+    "price_end": 52400,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "RC F Coupe",
+    "year": 2019,
+    "price_start": 64650,
+    "price_end": "",
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "RX 350 SUV",
+    "year": 2019,
+    "price_start": 43570,
+    "price_end": 50620,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "RX 350L SUV",
+    "year": 2019,
+    "price_start": 47870,
+    "price_end": 54285,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "RX 450h SUV",
+    "year": 2019,
+    "price_start": 45995,
+    "price_end": 51355,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "RX 450hL SUV",
+    "year": 2019,
+    "price_start": 50820,
+    "price_end": 54755,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "UX 200 SUV",
+    "year": 2019,
+    "price_start": 32000,
+    "price_end": 37200,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lexus",
+    "model": "UX 250h SUV",
+    "year": 2019,
+    "price_start": 34000,
+    "price_end": 34200,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Aviator SUV",
+    "year": 2020,
+    "price_start": 51100,
+    "price_end": 77695,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Continental Sedan",
+    "year": 2019,
+    "price_start": 46145,
+    "price_end": 72045,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKC SUV",
+    "year": 2019,
+    "price_start": 33995,
+    "price_end": 49610,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKT Wagon",
+    "year": 2019,
+    "price_start": 49500,
+    "price_end": 52500,
+    "type": "wagon",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKX SUV",
+    "year": 2018,
+    "price_start": 39035,
+    "price_end": 56725,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKZ Hybrid",
+    "year": 2019,
+    "price_start": 35995,
+    "price_end": 44995,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKZ Sedan",
+    "year": 2019,
+    "price_start": 35995,
+    "price_end": 46995,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Nautilus SUV",
+    "year": 2019,
+    "price_start": 40340,
+    "price_end": 59390,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Navigator SUV",
+    "year": 2019,
+    "price_start": 73205,
+    "price_end": 99595,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Maserati",
+    "model": "Ghibli Sedan",
+    "year": 2019,
+    "price_start": 73050,
+    "price_end": 86750,
+    "type": "sedan",
+    "country": "italy"
+  },
+  {
+    "make": "Maserati",
+    "model": "GranTurismo Coupe",
+    "year": 2018,
+    "price_start": 132975,
+    "price_end": 150220,
+    "type": "coupe",
+    "country": "italy"
+  },
+  {
+    "make": "Maserati",
+    "model": "GranTurismo Convertible",
+    "year": 2019,
+    "price_start": 148850,
+    "price_end": 161220,
+    "type": "convertible",
+    "country": "italy"
+  },
+  {
+    "make": "Maserati",
+    "model": "Levante SUV",
+    "year": 2019,
+    "price_start": 74050,
+    "price_end": 90750,
+    "type": "suv",
+    "country": "italy"
+  },
+  {
+    "make": "Maserati",
+    "model": "Quattroporte GTS GranLusso",
+    "year": 2019,
+    "price_start": 137980,
+    "price_end": "",
+    "type": "sedan",
+    "country": "italy"
+  },
+  {
+    "make": "Maserati",
+    "model": "Quattroporte GTS GranSport",
+    "year": 2019,
+    "price_start": 137980,
+    "price_end": "",
+    "type": "sedan",
+    "country": "italy"
+  },
+  {
+    "make": "Maserati",
+    "model": "Quattroporte Sedan",
+    "year": 2019,
+    "price_start": 107680,
+    "price_end": 137980,
+    "type": "sedan",
+    "country": "italy"
+  },
+  {
+    "make": "Mazda",
+    "model": "3 Hatchback",
+    "year": 2019,
+    "price_start": 23600,
+    "price_end": 28900,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Mazda",
+    "model": "3 Sedan",
+    "year": 2019,
+    "price_start": 21000,
+    "price_end": 27900,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Mazda",
+    "model": "6 Sedan",
+    "year": 2018,
+    "price_start": 21950,
+    "price_end": 34750,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Mazda",
+    "model": "CX 3 SUV",
+    "year": 2019,
+    "price_start": 20390,
+    "price_end": 27145,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Mazda",
+    "model": "CX 5 SUV",
+    "year": 2019,
+    "price_start": 24350,
+    "price_end": 36890,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Mazda",
+    "model": "CX 9 SUV",
+    "year": 2019,
+    "price_start": 32280,
+    "price_end": 45365,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Mazda",
+    "model": "MX 5 Miata Convertible",
+    "year": 2019,
+    "price_start": 25730,
+    "price_end": 31855,
+    "type": "convertible",
+    "country": "japan"
+  },
+  {
+    "make": "Mazda",
+    "model": "MX 5 Miata RF Convertible",
+    "year": 2019,
+    "price_start": 32345,
+    "price_end": 34410,
+    "type": "convertible",
+    "country": "japan"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "A Class Sedan",
+    "year": 2019,
+    "price_start": 32500,
+    "price_end": 34500,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "AMG GT Convertible",
+    "year": 2018,
+    "price_start": 124400,
+    "price_end": 157000,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "AMG GT Coupe",
+    "year": 2018,
+    "price_start": 112400,
+    "price_end": 157000,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C Class AMG C 43",
+    "year": 2018,
+    "price_start": 53400,
+    "price_end": 60800,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C Class AMG C 63",
+    "year": 2018,
+    "price_start": 66100,
+    "price_end": 73500,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C Class AMG C 63 S",
+    "year": 2018,
+    "price_start": 73700,
+    "price_end": 81500,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C Class Convertible",
+    "year": 2019,
+    "price_start": 51850,
+    "price_end": 53850,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C Class Coupe",
+    "year": 2019,
+    "price_start": 43800,
+    "price_end": 45800,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C Class Hybrid",
+    "year": 2018,
+    "price_start": 47900,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C Class Sedan",
+    "year": 2019,
+    "price_start": 41400,
+    "price_end": 43400,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CLA Class AMG CLA 45",
+    "year": 2019,
+    "price_start": 53100,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CLA Class Sedan",
+    "year": 2019,
+    "price_start": 33100,
+    "price_end": 53100,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CLS Class AMG CLS 53",
+    "year": 2019,
+    "price_start": 79900,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CLS Class AMG CLS 63 S",
+    "year": 2018,
+    "price_start": 108900,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CLS Class Sedan",
+    "year": 2019,
+    "price_start": 69200,
+    "price_end": 79900,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E Class AMG E 43 4MATIC",
+    "year": 2018,
+    "price_start": 71600,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E Class AMG E 53",
+    "year": 2019,
+    "price_start": 72550,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E Class AMG E 63 S 4MATIC",
+    "year": 2018,
+    "price_start": 104400,
+    "price_end": 106950,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E Class Convertible",
+    "year": 2019,
+    "price_start": 67300,
+    "price_end": 69800,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E Class Coupe",
+    "year": 2019,
+    "price_start": 59800,
+    "price_end": 62300,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E Class Sedan",
+    "year": 2019,
+    "price_start": 59800,
+    "price_end": 62300,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E Class Wagon",
+    "year": 2019,
+    "price_start": 64200,
+    "price_end": 64700,
+    "type": "wagon",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "EQC SUV",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "G Class AMG G 63",
+    "year": 2019,
+    "price_start": 147500,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "G Class AMG G 65",
+    "year": 2018,
+    "price_start": 222700,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "G Class SUV",
+    "year": 2019,
+    "price_start": 124500,
+    "price_end": 147500,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLA Class AMG GLA 45",
+    "year": 2019,
+    "price_start": 53350,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLA Class AMG GLA 45 4MATIC",
+    "year": 2018,
+    "price_start": 50600,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLA Class SUV",
+    "year": 2019,
+    "price_start": 33950,
+    "price_end": 53350,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class AMG GLC 43",
+    "year": 2018,
+    "price_start": 56250,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class AMG GLC 63",
+    "year": 2018,
+    "price_start": 69900,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class Hybrid",
+    "year": 2018,
+    "price_start": 49990,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class SUV",
+    "year": 2019,
+    "price_start": 40700,
+    "price_end": 42700,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class Coupe AMG GLC 43",
+    "year": 2018,
+    "price_start": 46600,
+    "price_end": 80750,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class Coupe AMG GLC 63",
+    "year": 2018,
+    "price_start": 46600,
+    "price_end": 80750,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class Coupe AMG GLC 63 S",
+    "year": 2018,
+    "price_start": 46600,
+    "price_end": 80750,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLC Class Coupe SUV",
+    "year": 2019,
+    "price_start": 47300,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class AMG GLE 43",
+    "year": 2019,
+    "price_start": 68150,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class AMG GLE 43 4MATIC",
+    "year": 2018,
+    "price_start": 67750,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class AMG GLE 63",
+    "year": 2019,
+    "price_start": 103050,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class AMG GLE 63 4MATIC",
+    "year": 2018,
+    "price_start": 102550,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class AMG GLE 63 S",
+    "year": 2019,
+    "price_start": 110200,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class AMG GLE 63 S 4MATIC",
+    "year": 2018,
+    "price_start": 109700,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class Hybrid",
+    "year": 2020,
+    "price_start": 61150,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class SUV",
+    "year": 2020,
+    "price_start": 53700,
+    "price_end": 61150,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE Class Coupe SUV",
+    "year": 2019,
+    "price_start": 71350,
+    "price_end": 113000,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLS Class GLS 63 AMG",
+    "year": 2018,
+    "price_start": 69550,
+    "price_end": 125300,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLS Class SUV",
+    "year": 2019,
+    "price_start": 70150,
+    "price_end": 95750,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "Maybach Sedan",
+    "year": 2018,
+    "price_start": 168600,
+    "price_end": 198700,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "Metris Minivan",
+    "year": 2019,
+    "price_start": 25995,
+    "price_end": 33900,
+    "type": "minivan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S Class AMG S 63",
+    "year": 2018,
+    "price_start": 147500,
+    "price_end": 179500,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S Class AMG S 65",
+    "year": 2018,
+    "price_start": 229500,
+    "price_end": 250500,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S Class Convertible",
+    "year": 2018,
+    "price_start": 133300,
+    "price_end": 250900,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S Class Coupe",
+    "year": 2018,
+    "price_start": 124500,
+    "price_end": 238900,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S Class Sedan",
+    "year": 2018,
+    "price_start": 89900,
+    "price_end": 229500,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL Class AMG SL 63",
+    "year": 2019,
+    "price_start": 154450,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL Class Convertible",
+    "year": 2019,
+    "price_start": 89150,
+    "price_end": 154450,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL Class SL 63 AMG",
+    "year": 2018,
+    "price_start": 152850,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL Class SL 65 AMG",
+    "year": 2018,
+    "price_start": 222000,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SLC Class AMG SLC 43",
+    "year": 2018,
+    "price_start": 61350,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SLC Class Convertible",
+    "year": 2019,
+    "price_start": 48950,
+    "price_end": "",
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "Sprinter Van",
+    "year": 2018,
+    "price_start": 38420,
+    "price_end": 56730,
+    "type": "van",
+    "country": "german"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "Sprinter Worker Van",
+    "year": 2018,
+    "price_start": 33995,
+    "price_end": 38795,
+    "type": "van",
+    "country": "german"
+  },
+  {
+    "make": "MINI",
+    "model": "Clubman Hatchback",
+    "year": 2019,
+    "price_start": 24900,
+    "price_end": 35900,
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Clubman John Cooper Works ALL4",
+    "year": 2019,
+    "price_start": 35900,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Convertible",
+    "year": 2019,
+    "price_start": "",
+    "price_end": "",
+    "type": "convertible",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Convertible John Cooper Works",
+    "year": 2019,
+    "price_start": "",
+    "price_end": "",
+    "type": "convertible",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Countryman Hybrid",
+    "year": 2019,
+    "price_start": 36900,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Countryman John Cooper Works ALL4",
+    "year": 2019,
+    "price_start": 37900,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Countryman Wagon",
+    "year": 2019,
+    "price_start": 26900,
+    "price_end": 37900,
+    "type": "wagon",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Hardtop 2 Door Hatchback",
+    "year": 2019,
+    "price_start": 21900,
+    "price_end": 31900,
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Hardtop 2 Door John Cooper Works",
+    "year": 2019,
+    "price_start": 31900,
+    "price_end": "",
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "MINI",
+    "model": "Hardtop 4 Door Hatchback",
+    "year": 2019,
+    "price_start": 22900,
+    "price_end": 26900,
+    "type": "hatchback",
+    "country": "britannia"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Eclipse Cross SUV",
+    "year": 2019,
+    "price_start": 23595,
+    "price_end": 30695,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage Hatchback",
+    "year": 2019,
+    "price_start": 13795,
+    "price_end": 16995,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage G4 Sedan",
+    "year": 2019,
+    "price_start": 14795,
+    "price_end": 17495,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander SUV",
+    "year": 2019,
+    "price_start": 24695,
+    "price_end": 33195,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander PHEV SUV",
+    "year": 2019,
+    "price_start": 35795,
+    "price_end": 41495,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander Sport SUV",
+    "year": 2019,
+    "price_start": 20945,
+    "price_end": 26545,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "370Z Convertible",
+    "year": 2019,
+    "price_start": 41820,
+    "price_end": 49400,
+    "type": "convertible",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "370Z Coupe",
+    "year": 2019,
+    "price_start": 29990,
+    "price_end": 47090,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "370Z NISMO",
+    "year": 2019,
+    "price_start": 45690,
+    "price_end": 47090,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "370Z NISMO Tech",
+    "year": 2018,
+    "price_start": 45690,
+    "price_end": 47090,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima Sedan",
+    "year": 2019,
+    "price_start": 23750,
+    "price_end": 35750,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Armada SUV",
+    "year": 2019,
+    "price_start": 46790,
+    "price_end": 62690,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Frontier Crew Cab",
+    "year": 2019,
+    "price_start": 24950,
+    "price_end": 36850,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Frontier King Cab",
+    "year": 2019,
+    "price_start": 18990,
+    "price_end": 33430,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "GT R Coupe",
+    "year": 2019,
+    "price_start": 99990,
+    "price_end": 175490,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "GT R NISMO",
+    "year": 2019,
+    "price_start": 175490,
+    "price_end": "",
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Kicks Hatchback",
+    "year": 2019,
+    "price_start": 18540,
+    "price_end": 20870,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "LEAF Hatchback",
+    "year": 2019,
+    "price_start": 29990,
+    "price_end": 42550,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima Sedan",
+    "year": 2019,
+    "price_start": 33950,
+    "price_end": 41440,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Murano SUV",
+    "year": 2019,
+    "price_start": 31270,
+    "price_end": 45130,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "NV Cargo Van",
+    "year": 2018,
+    "price_start": 28850,
+    "price_end": 37370,
+    "type": "van",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "NV Passenger Van",
+    "year": 2019,
+    "price_start": 35660,
+    "price_end": 42410,
+    "type": "van",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "NV200 Minivan",
+    "year": 2019,
+    "price_start": 22200,
+    "price_end": 23200,
+    "type": "minivan",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder SUV",
+    "year": 2019,
+    "price_start": 31230,
+    "price_end": 44260,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue Hybrid",
+    "year": 2019,
+    "price_start": 27600,
+    "price_end": 32890,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue SUV",
+    "year": 2019,
+    "price_start": 24800,
+    "price_end": 32890,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue Sport SUV",
+    "year": 2019,
+    "price_start": 22240,
+    "price_end": 29310,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra NISMO",
+    "year": 2019,
+    "price_start": 25840,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra Sedan",
+    "year": 2019,
+    "price_start": 17790,
+    "price_end": 25840,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan Crew Cab",
+    "year": 2019,
+    "price_start": 36650,
+    "price_end": 57390,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan King Cab",
+    "year": 2019,
+    "price_start": 33640,
+    "price_end": 44500,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan Regular Cab",
+    "year": 2019,
+    "price_start": 30390,
+    "price_end": 37130,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan XD Crew Cab",
+    "year": 2018,
+    "price_start": 37490,
+    "price_end": 64110,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan XD Diesel",
+    "year": 2018,
+    "price_start": 37840,
+    "price_end": 64110,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan XD King Cab",
+    "year": 2018,
+    "price_start": 34260,
+    "price_end": 51190,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan XD Regular Cab",
+    "year": 2018,
+    "price_start": 32290,
+    "price_end": 45270,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Versa Sedan",
+    "year": 2019,
+    "price_start": 12360,
+    "price_end": 15990,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Nissan",
+    "model": "Versa Note Hatchback",
+    "year": 2019,
+    "price_start": 15650,
+    "price_end": 18360,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Polestar",
+    "model": "2 Sedan",
+    "year": 2021,
+    "price_start": "",
+    "price_end": "",
+    "type": "sedan",
+    "country": "sweden"
+  },
+  {
+    "make": "Porsche",
+    "model": "718 Boxster Convertible",
+    "year": 2018,
+    "price_start": 57400,
+    "price_end": 81900,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "718 Cayman Coupe",
+    "year": 2018,
+    "price_start": 55300,
+    "price_end": 79800,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "911 Convertible",
+    "year": 2019,
+    "price_start": 103400,
+    "price_end": 139900,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "911 Coupe",
+    "year": 2019,
+    "price_start": 91100,
+    "price_end": 187500,
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "911 GT2 RS",
+    "year": 2018,
+    "price_start": 293200,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "911 GT3",
+    "year": 2018,
+    "price_start": 143600,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "911 GT3 RS",
+    "year": 2019,
+    "price_start": 187500,
+    "price_end": "",
+    "type": "coupe",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "Cayenne Hybrid",
+    "year": 2019,
+    "price_start": 79900,
+    "price_end": "",
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "Cayenne SUV",
+    "year": 2019,
+    "price_start": 65700,
+    "price_end": 124600,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "Macan SUV",
+    "year": 2018,
+    "price_start": 47800,
+    "price_end": 87700,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "Panamera Hybrid",
+    "year": 2018,
+    "price_start": 99600,
+    "price_end": 194800,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Porsche",
+    "model": "Panamera Sedan",
+    "year": 2018,
+    "price_start": 85000,
+    "price_end": 194800,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Crew Cab",
+    "year": 2019,
+    "price_start": 33295,
+    "price_end": 57195,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Diesel",
+    "year": 2018,
+    "price_start": 37895,
+    "price_end": "",
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Quad Cab",
+    "year": 2018,
+    "price_start": 30895,
+    "price_end": 43645,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Regular Cab",
+    "year": 2018,
+    "price_start": 27095,
+    "price_end": 39290,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Classic Crew Cab",
+    "year": 2019,
+    "price_start": 33895,
+    "price_end": 46295,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Classic Quad Cab",
+    "year": 2019,
+    "price_start": 31295,
+    "price_end": 43695,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Classic Regular Cab",
+    "year": 2019,
+    "price_start": 27395,
+    "price_end": 36395,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "2500 Crew Cab",
+    "year": 2019,
+    "price_start": 36950,
+    "price_end": 64200,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "2500 Mega Cab",
+    "year": 2019,
+    "price_start": 46500,
+    "price_end": 65700,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "2500 Regular Cab",
+    "year": 2019,
+    "price_start": 33395,
+    "price_end": 40545,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "3500 Crew Cab",
+    "year": 2018,
+    "price_start": 37245,
+    "price_end": 62495,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "3500 Mega Cab",
+    "year": 2018,
+    "price_start": 43845,
+    "price_end": 60795,
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "Promaster Cargo Van",
+    "year": 2019,
+    "price_start": 30195,
+    "price_end": 39645,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "Promaster City Minivan",
+    "year": 2019,
+    "price_start": 24195,
+    "price_end": 27495,
+    "type": "minivan",
+    "country": "usa"
+  },
+  {
+    "make": "Ram",
+    "model": "Promaster Window Van",
+    "year": 2019,
+    "price_start": 36295,
+    "price_end": 40145,
+    "type": "van",
+    "country": "usa"
+  },
+  {
+    "make": "Rivian",
+    "model": "R1T Crew Cab",
+    "year": 2021,
+    "price_start": "",
+    "price_end": "",
+    "type": "truck",
+    "country": "usa"
+  },
+  {
+    "make": "Rolls-Royce",
+    "model": "Cullinan SUV",
+    "year": 2019,
+    "price_start": "",
+    "price_end": "",
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "smart",
+    "model": "fortwo Convertible",
+    "year": 2018,
+    "price_start": 23800,
+    "price_end": 26640,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "smart",
+    "model": "fortwo Hatchback",
+    "year": 2018,
+    "price_start": 28100,
+    "price_end": 29100,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Subaru",
+    "model": "Ascent SUV",
+    "year": 2019,
+    "price_start": 31995,
+    "price_end": 44695,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "BRZ Coupe",
+    "year": 2019,
+    "price_start": 25795,
+    "price_end": 30140,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "Crosstrek Hybrid",
+    "year": 2019,
+    "price_start": "",
+    "price_end": 34995,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "Crosstrek SUV",
+    "year": 2019,
+    "price_start": 21895,
+    "price_end": 34995,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester SUV",
+    "year": 2019,
+    "price_start": 24295,
+    "price_end": 34295,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza Hatchback",
+    "year": 2019,
+    "price_start": 19095,
+    "price_end": 25690,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza Sedan",
+    "year": 2019,
+    "price_start": 18595,
+    "price_end": 25190,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "Legacy Sedan",
+    "year": 2019,
+    "price_start": 22545,
+    "price_end": 31545,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback SUV",
+    "year": 2019,
+    "price_start": 26345,
+    "price_end": 38995,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "WRX STI",
+    "year": 2019,
+    "price_start": 36595,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "WRX STI Limited w/Low Profile Trunk Spoiler",
+    "year": 2019,
+    "price_start": 41395,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "WRX STI Limited w/Wing",
+    "year": 2019,
+    "price_start": 41395,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Subaru",
+    "model": "WRX Sedan",
+    "year": 2019,
+    "price_start": 27195,
+    "price_end": 41395,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3 Sedan",
+    "year": 2019,
+    "price_start": 35000,
+    "price_end": 58000,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model S Sedan",
+    "year": 2019,
+    "price_start": 76000,
+    "price_end": 133000,
+    "type": "sedan",
+    "country": "usa"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model X SUV",
+    "year": 2019,
+    "price_start": 82000,
+    "price_end": 138000,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model Y SUV",
+    "year": 2020,
+    "price_start": 48000,
+    "price_end": 61000,
+    "type": "suv",
+    "country": "usa"
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner SUV",
+    "year": 2019,
+    "price_start": 35110,
+    "price_end": 47200,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "86 Coupe",
+    "year": 2019,
+    "price_start": 26505,
+    "price_end": 32420,
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Avalon Sedan",
+    "year": 2019,
+    "price_start": 35500,
+    "price_end": 42200,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Avalon Hybrid Sedan",
+    "year": 2019,
+    "price_start": 36500,
+    "price_end": 42800,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "C HR SUV",
+    "year": 2019,
+    "price_start": 20995,
+    "price_end": 26050,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry Sedan",
+    "year": 2019,
+    "price_start": 23845,
+    "price_end": 34600,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry Hybrid Sedan",
+    "year": 2019,
+    "price_start": 28150,
+    "price_end": 32725,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla Sedan",
+    "year": 2020,
+    "price_start": 19500,
+    "price_end": 25450,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla Hatchback",
+    "year": 2019,
+    "price_start": 19990,
+    "price_end": 24090,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla Hybrid Sedan",
+    "year": 2020,
+    "price_start": 22950,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla iM Hatchback",
+    "year": 2018,
+    "price_start": 18850,
+    "price_end": 19590,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander SUV",
+    "year": 2019,
+    "price_start": 31330,
+    "price_end": 47010,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander Hybrid SUV",
+    "year": 2019,
+    "price_start": 36970,
+    "price_end": 48630,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Land Cruiser SUV",
+    "year": 2019,
+    "price_start": 85015,
+    "price_end": "",
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Mirai Sedan",
+    "year": 2019,
+    "price_start": 58500,
+    "price_end": "",
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius Hatchback",
+    "year": 2019,
+    "price_start": 23770,
+    "price_end": 32200,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius c Hatchback",
+    "year": 2019,
+    "price_start": 21530,
+    "price_end": 22955,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius Prime Hatchback",
+    "year": 2019,
+    "price_start": 27350,
+    "price_end": 33350,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4 SUV",
+    "year": 2019,
+    "price_start": 25500,
+    "price_end": 34900,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4 Hybrid SUV",
+    "year": 2019,
+    "price_start": 27700,
+    "price_end": 35700,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Sequoia SUV",
+    "year": 2019,
+    "price_start": 48700,
+    "price_end": 67635,
+    "type": "suv",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Sienna Minivan",
+    "year": 2019,
+    "price_start": 29190,
+    "price_end": 48890,
+    "type": "minivan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Supra Coupe",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "coupe",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Access Cab",
+    "year": 2019,
+    "price_start": 25550,
+    "price_end": 35530,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Crew Cab",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Double Cab",
+    "year": 2019,
+    "price_start": 26380,
+    "price_end": 45365,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra CrewMax",
+    "year": 2019,
+    "price_start": 35825,
+    "price_end": 50430,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra CrewMax Cab",
+    "year": 2018,
+    "price_start": 35450,
+    "price_end": 50330,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra Double Cab",
+    "year": 2019,
+    "price_start": 31420,
+    "price_end": 43735,
+    "type": "truck",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris Hatchback",
+    "year": 2018,
+    "price_start": 15450,
+    "price_end": 18550,
+    "type": "hatchback",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris Sedan",
+    "year": 2019,
+    "price_start": 15450,
+    "price_end": 18550,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris iA Sedan",
+    "year": 2018,
+    "price_start": 15950,
+    "price_end": 17050,
+    "type": "sedan",
+    "country": "japan"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Arteon Hatchback",
+    "year": 2019,
+    "price_start": 35845,
+    "price_end": 46210,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Atlas SUV",
+    "year": 2019,
+    "price_start": 30895,
+    "price_end": 48395,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Beetle Hatchback",
+    "year": 2019,
+    "price_start": 20895,
+    "price_end": 25995,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Beetle Convertible",
+    "year": 2019,
+    "price_start": 25995,
+    "price_end": 29995,
+    "type": "convertible",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e Golf Hatchback",
+    "year": 2019,
+    "price_start": 31895,
+    "price_end": 38895,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf Hatchback",
+    "year": 2019,
+    "price_start": 21845,
+    "price_end": 25245,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf Alltrack Wagon",
+    "year": 2019,
+    "price_start": 26895,
+    "price_end": 36095,
+    "type": "wagon",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf GTI Hatchback",
+    "year": 2019,
+    "price_start": 27595,
+    "price_end": 37095,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf R Hatchback",
+    "year": 2019,
+    "price_start": 40395,
+    "price_end": 41495,
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf SportWagen Wagon",
+    "year": 2019,
+    "price_start": 21895,
+    "price_end": 29995,
+    "type": "wagon",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "I.D. Hatchback",
+    "year": 2020,
+    "price_start": "",
+    "price_end": "",
+    "type": "hatchback",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta 2.0T GLI",
+    "year": 2018,
+    "price_start": 29545,
+    "price_end": "",
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta Sedan",
+    "year": 2019,
+    "price_start": 18645,
+    "price_end": 29545,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta GLI Sedan",
+    "year": 2019,
+    "price_start": 25995,
+    "price_end": 29995,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat Sedan",
+    "year": 2019,
+    "price_start": 25295,
+    "price_end": 29995,
+    "type": "sedan",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Tiguan SUV",
+    "year": 2019,
+    "price_start": 24195,
+    "price_end": 38895,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Tiguan Limited SUV",
+    "year": 2018,
+    "price_start": 22250,
+    "price_end": 24225,
+    "type": "suv",
+    "country": "german"
+  },
+  {
+    "make": "Volvo",
+    "model": "S60 Hybrid",
+    "year": 2019,
+    "price_start": 54400,
+    "price_end": 55400,
+    "type": "sedan",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "S60 Polestar",
+    "year": 2018,
+    "price_start": 34100,
+    "price_end": 60000,
+    "type": "sedan",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "S60 Sedan",
+    "year": 2019,
+    "price_start": 35800,
+    "price_end": 55400,
+    "type": "sedan",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "S60 Cross Country Sedan",
+    "year": 2018,
+    "price_start": 44350,
+    "price_end": "",
+    "type": "sedan",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "S90 Hybrid",
+    "year": 2019,
+    "price_start": 63900,
+    "price_end": 69000,
+    "type": "sedan",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "S90 Sedan",
+    "year": 2019,
+    "price_start": 47350,
+    "price_end": 69000,
+    "type": "sedan",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "V60 Polestar",
+    "year": 2018,
+    "price_start": 61600,
+    "price_end": "",
+    "type": "wagon",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "V60 Wagon",
+    "year": 2019,
+    "price_start": 38250,
+    "price_end": 61600,
+    "type": "wagon",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "V60 Cross Country Wagon",
+    "year": 2018,
+    "price_start": 41850,
+    "price_end": 45700,
+    "type": "wagon",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "V90 Wagon",
+    "year": 2019,
+    "price_start": 51450,
+    "price_end": 59450,
+    "type": "wagon",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "V90 Cross Country Wagon",
+    "year": 2019,
+    "price_start": 52550,
+    "price_end": 60500,
+    "type": "wagon",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "XC40 SUV",
+    "year": 2019,
+    "price_start": 33200,
+    "price_end": 39750,
+    "type": "suv",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "XC60 Hybrid",
+    "year": 2019,
+    "price_start": 52900,
+    "price_end": 60250,
+    "type": "suv",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "XC60 SUV",
+    "year": 2019,
+    "price_start": 39200,
+    "price_end": 60250,
+    "type": "suv",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "XC90 Hybrid",
+    "year": 2019,
+    "price_start": 66300,
+    "price_end": 104900,
+    "type": "suv",
+    "country": "sweden"
+  },
+  {
+    "make": "Volvo",
+    "model": "XC90 SUV",
+    "year": 2019,
+    "price_start": 47200,
+    "price_end": 104900,
+    "type": "suv",
+    "country": "sweden"
+  }
+]
